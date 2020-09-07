@@ -1,0 +1,2 @@
+paddle1.8.2
+opencv3.4.1
